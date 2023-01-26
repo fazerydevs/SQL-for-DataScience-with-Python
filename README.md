@@ -2,6 +2,13 @@
 <h3 align="center">Exploring the Datasets with Itermediate SQL.</h3>
 
 <h3 align="center">The Screenshots:</h3>
+
+
+![](Images/Dataset%201.jpg)
+
+
+![](Images/dataset%202.jpg)
+
  
 ![](Images/problem%205.jpg)
 
